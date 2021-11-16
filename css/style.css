@@ -1,0 +1,144 @@
+body{
+    font-family: Objective,sans-serif;
+}
+.slid{
+    background-image: url('../img/12.jpg');
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.lay{
+    background-color:rgba(00, 0, 0, .55);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.content{
+    top: 48%;
+    left: 30%;
+    z-index: 111;
+    text-align: center;
+
+    
+
+}
+
+
+
+.content h3{
+    font-weight: 500;
+    font-size: 3rem;
+}
+.border{
+    color:  orange;
+    border-color: red !important;
+    
+    
+}
+.navcol{
+color: white !important;
+}
+.icon{
+    color: white;
+    font-size: .7rem;
+}
+
+
+
+.hicon:hover{
+    color: orange;
+}
+
+.oo{
+    padding-left: 10rem;
+    
+}
+
+.layhr{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 4rem;
+    background-color: gray;
+}
+.context{
+    padding: 1rem;
+}
+.imw{
+    width: 100%;
+    padding-bottom: 2rem;
+}
+
+.par{
+    box-shadow: none;
+    transition:  box-shadow 1s; 
+}
+
+
+
+.par:hover{
+    box-shadow: 0 1rem 2rem -1rem rgba(0,0,0,.75);
+}
+
+
+
+.text{
+        font-weight: 500;
+}
+
+
+
+
+.line {
+    position: absolute;
+    left: 50%;
+    height: 5rem;
+    border-left: 2px solid #f5ba4b;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.imb{
+    width: 100%;
+    padding-bottom: 2rem;
+}
+.kl{
+    left: 5rem;
+    top: .1rem;
+    
+}
+.tex{
+    text-decoration: underline wavy ;
+    text-decoration-color: #f5ba4b;
+}
+.wc{
+    color: white;
+}
+.gg{
+    color: #f5ba4b;
+    font-size: 2rem;
+}
+
+
+.te{
+    color: white;
+}
+.nm{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.nb{
+    
+    top: 0;
+    left: 50vh;
+    right: 0;
+    bottom: 0;
+
+}
+.nb img{
+    width: 90%;
+}
